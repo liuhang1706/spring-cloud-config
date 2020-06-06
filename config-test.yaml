@@ -1,2 +1,2 @@
-server:
-  port: 33
+config:
+  info: "config.info from config-test.yaml"

@@ -1,2 +1,2 @@
-server:
-  port: 66
+config:
+  info: "config.info from config-pro.yaml"
